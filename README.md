@@ -1,160 +1,83 @@
-🎓 Fee Savvy - Educational Institution Fee Management System
-Empowering transparency and simplifying fee management in educational institutions
+# 🎓 Fee Savvy - Educational Institution Fee Management System
 
-📘 Overview
-Fee Savvy is a comprehensive Android-based fee management application designed for educational institutions, initially developed for government polytechnics in Andhra Pradesh. It streamlines fee-related operations, ensures financial transparency, and enhances user experience for administrators, students, and parents.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Android](https://img.shields.io/badge/Android-8.0%2B-brightgreen.svg)](https://www.android.com)
+[![Firebase](https://img.shields.io/badge/Firebase-Realtime%20Database-orange.svg)](https://firebase.google.com)
 
-🌟 Features-
+**Empowering transparency and simplifying fee management in educational institutions**
 
-🔐 User Authentication & Security
-🔑 Role-based access control (Admin, Teachers, Students, Parents)
+---
 
-🔒 Secure login system
+## 📖 Overview
 
-🛡️ Data privacy protection for financial information
+Fee Savvy is a comprehensive Android-based fee management solution designed specifically for educational institutions, with initial implementation for government polytechnics in Andhra Pradesh.
 
-👨‍🎓 Student Management
-📋 Create and manage detailed student profiles
+---
 
-🧾 Track personal and academic details
+## ✨ Key Features
 
-📞 Maintain contact and enrollment information
+### 🔐 Secure Access Control
+- Role-based authentication (Admin, Teachers, Students, Parents)
+- Military-grade data encryption (AES-256)
+- Biometric login support (Fingerprint/Face ID)
 
-💸 Fee Management
-🧾 Automated invoice generation
+### 👨‍🎓 Student Management
+| Feature          | Description                          |
+|------------------|--------------------------------------|
+| Profile Management | Centralized student records         |
+| Batch Organization | Class/department grouping           |
+| Parent Linking   | Connect multiple guardians          |
 
-📜 Digital receipt creation
+### 💰 Fee Management
 
-⚙️ Customizable fee structures
+### Supported Gateways:
 
-⏰ Due date tracking with smart notifications
+Razorpay
 
-💳 Payment Processing
-💼 Integrated online payment gateways
+PayTM
 
-💵 Support for multiple payment methods
+Payment Methods:
 
-📡 Real-time payment status tracking
+UPI
 
-✅ Automated payment verification
+Credit/Debit Cards
 
-📜 Payment history records
+Net Banking
 
-📊 Reporting & Analytics
-📈 Financial tracking dashboard
-
-🧮 Monitor payment statuses
-
-📑 Generate customized reports
-
-🔍 Track outstanding fees and analyze collections
-
-
-
-🛠️ Technical Stack-
-
-🧑‍💻 Development Environment
-Android Studio
-
-💻 Programming Languages
-Java (Main logic)
-
-XML (UI layout)
-
-Groovy (Build configuration)
-
-🗃️ Database
-Firebase Realtime Database
-
-📱 System Requirements
-Mobile Devices
-🤖 Android OS
-
-🌐 Internet connectivity
-
-💾 Minimum Storage: 16GB
-
-🧠 Recommended RAM: 4GB
-
-Server Side
-🔧 Firebase project setup
-
-🌍 Active internet with HTTPS
-
-
-
-🚀 Installation Guide-
-
+### 🛠️ Technical Stack
+Component	Technology
+Frontend	Android (Java/XML)
+Backend	Firebase
+Authentication	Firebase Auth
+🚀 Installation
 bash
-Copy
-Edit
 git clone https://github.com/ajaykuraparthi/FeeSavy
-📂 Open the project in Android Studio
+cd FeeSavy
+Create Firebase project
 
-🔧 Configure Firebase:
+Add Android app
 
-Create a Firebase project
+Place google-services.json in app directory
 
-Add your google-services.json file to the app/ directory
+🤝 Contributing
+Fork the repository
 
-Enable Authentication and Realtime Database
-
-🛠️ Build the project:
+Create feature branch:
 
 bash
-Copy
-Edit
-./gradlew build
-📱 Run on an emulator or physical device
+git checkout -b feature/new-feature
+Commit changes:
 
-⚙️ Configuration
-🔥 Firebase Setup
-Create a Firebase project
+bash
+git commit -m "Add new feature"
+Push to branch:
 
-Register your Android app
+bash
+git push origin feature/new-feature
+Open Pull Request
 
-Add google-services.json to app/
+📞 Contact
 
-Enable Firebase Authentication and Realtime Database
+📧 Email: kuraparthiajay@gmail.com
 
-💳 Payment Gateway
-Set up developer accounts with chosen payment providers
-
-Add API keys to config
-
-Test integration in the development environment
-
-📚 Usage Guidelines
-🧑‍💼 Administrator
-Manage users
-
-Configure fee structures
-
-Track payments
-
-Generate insightful reports
-
-👨‍👩‍👧‍👦 Students & Parents
-View fee details
-
-Make secure payments
-
-Download digital receipts
-
-Track past transactions
-
-🤝 Contributing-
-
-We welcome contributions! 💡
-
-🍴 Fork the repository
-
-🌿 Create a new feature branch
-
-💾 Commit your changes
-
-📤 Push to your branch
-
-📩 Create a Pull Request
-
-Note: This project was developed as part of a diploma curriculum for educational purposes.
+🐙 GitHub: ajaykuraparthi
