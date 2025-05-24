@@ -120,16 +120,5 @@ We welcome contributions to improve Fee Savvy. Please follow these steps:
 5. Create a Pull Request
 
 
-
-## Contact Information
-neelurichaithanya@gmail.com
-7842460120
-
-## Acknowledgments
--S. Rajith Bhargav
--D. Kiran Kumar
--J.S Reddy Sharath
--M. Anusha
-
 ---
 Note: This is an educational project developed as part of diploma studies curriculum.
