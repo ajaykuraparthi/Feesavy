@@ -4,7 +4,8 @@ Empowering transparency and simplifying fee management in educational institutio
 📘 Overview
 Fee Savvy is a comprehensive Android-based fee management application designed for educational institutions, initially developed for government polytechnics in Andhra Pradesh. It streamlines fee-related operations, ensures financial transparency, and enhances user experience for administrators, students, and parents.
 
-🌟 Features
+🌟 Features-
+
 🔐 User Authentication & Security
 🔑 Role-based access control (Admin, Teachers, Students, Parents)
 
@@ -48,7 +49,10 @@ Fee Savvy is a comprehensive Android-based fee management application designed f
 
 🔍 Track outstanding fees and analyze collections
 
-🛠️ Technical Stack
+
+
+🛠️ Technical Stack-
+
 🧑‍💻 Development Environment
 Android Studio
 
@@ -77,11 +81,14 @@ Server Side
 
 🌍 Active internet with HTTPS
 
-🚀 Installation Guide
+
+
+🚀 Installation Guide-
+
 bash
 Copy
 Edit
-git clone https://github.com/Chaithanya-Neeluri/FeeSavvy
+git clone https://github.com/ajaykuraparthi/FeeSavy
 📂 Open the project in Android Studio
 
 🔧 Configure Firebase:
@@ -136,7 +143,8 @@ Download digital receipts
 
 Track past transactions
 
-🤝 Contributing
+🤝 Contributing-
+
 We welcome contributions! 💡
 
 🍴 Fork the repository
