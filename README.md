@@ -1,6 +1,6 @@
 # 🎓 Fee Savvy - Educational Institution Fee Management System
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 [![Android](https://img.shields.io/badge/Android-8.0%2B-brightgreen.svg)](https://www.android.com)
 [![Firebase](https://img.shields.io/badge/Firebase-Realtime%20Database-orange.svg)](https://firebase.google.com)
 
